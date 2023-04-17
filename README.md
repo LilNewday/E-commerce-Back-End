@@ -2,33 +2,20 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+I needed a good functioning database with the capabilty of being able to view, create, place, and delete all of the submissions in it. This was a nice change of pace from my previous work and I enjoyed working within the models. I got a better feel for them and I was glad to have experienced the struggle with the routes as well. Database functionality was the goal of this project and while basic it does what it should well.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+Run `npm install`. Afterwards source the schema from the database folder in mysql and then run `npm seed` from the seeds folder. Then run `npm start` and your all set.
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Using insomnia you can GET, PUT, POST, and DELETE files in the code.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+## Walkthrough
 
-![alt text](assets/images/screenshot.png)
+https://watch.screencastify.com/v/ffjFu15iUhj5ivmbZOdH
 
 ## Credits
 
